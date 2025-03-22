@@ -8,7 +8,7 @@
 	branch = main
 [submodule "VT2040-keyb"]
 	path = VT2040-keyb
-	url = https://github.com/ncrawforth/VT2040-keyb
+	url = https://github.com/ikeji/VT2040-keyb
 	branch = main
 [submodule "VT2040-serial"]
 	path = VT2040-serial
